@@ -1,0 +1,55 @@
+output "elasticbeanstalk_application_with_appversion_max_count_name" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.name
+}
+
+output "elasticbeanstalk_application_with_appversion_max_count_description" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.description
+}
+
+output "elasticbeanstalk_application_with_appversion_max_count_tags" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.tags
+}
+
+output "elasticbeanstalk_application_with_appversion_max_count_service_role" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.service_role
+}
+
+output "elasticbeanstalk_application_with_appversion_max_count_max_age_in_days" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.max_age_in_days
+}
+
+output "elasticbeanstalk_application_with_appversion_max_count_delete_source_from_s3" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.delete_source_from_s3
+}
+
+output "elasticbeanstalk_application_with_appversion_max_count_max_count" {
+  value = module.elasticbeanstalk_application_with_appversion_max_count.max_count
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_name" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.name
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_description" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.description
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_tags" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.tags
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_service_role" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.service_role
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_max_age_in_days" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.max_age_in_days
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_delete_source_from_s3" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.delete_source_from_s3
+}
+
+output "elasticbeanstalk_application_with_appversion_max_age_in_days_max_count" {
+  value = module.elasticbeanstalk_application_with_appversion_max_age_in_days.max_count
+}
