@@ -1,4 +1,7 @@
 # terraform-aws-elastic-beanstalk-application
+![CI](https://github.com/scalereal/terraform-aws-elastic-beanstalk-application/workflows/CI/badge.svg)
+
+
 Terraform Module for AWS elastic beanstalk application creation.
 ## Providers
 
