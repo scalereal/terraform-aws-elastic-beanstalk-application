@@ -7,7 +7,7 @@ Terraform Module for AWS elastic beanstalk application creation.
 
 | Name | Version |
 |------|---------|
-| aws | ~> 2.0 |
+| aws  | >= 3.50 |
 
 ## Inputs
 
