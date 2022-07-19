@@ -29,8 +29,7 @@ variable "appversion_max_count" {
 
 variable "appversion_max_age_in_days" {
   type        = string
-  default     = ""
-  description = "(Optional) The number of days to retain an application version. Should be used only if appversion_max_count is not set."
+  description = "(Required) The number of days to retain an application version. Should be used only if appversion_max_count is not set."
 }
 
 variable "appversion_delete_source_from_s3" {
