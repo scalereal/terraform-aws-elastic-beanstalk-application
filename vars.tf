@@ -38,4 +38,3 @@ variable "appversion_delete_source_from_s3" {
   default     = false
   description = "(Optional) Set to true to delete a version's source bundle from S3 when the application version is deleted."
 }
-
